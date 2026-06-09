@@ -117,25 +117,6 @@ The optimized production files will be generated in the `dist` folder.
 * Maintain a scalable and modular code structure.
 * Demonstrate practical implementation of React-based web development.
 
-## 📸 Screenshots
-
-Add screenshots of the following pages:
-
-* Home Page
-* Input Form
-* Analysis Screen
-* Results Page
-* Saved Predictions
-
-## 🔮 Future Enhancements
-
-* User authentication
-* Report generation in PDF format
-* Advanced numerology analytics
-* Personalized recommendations
-* Cloud database integration
-* Mobile application version
-* Multi-language support
 
 ## 🤝 Contributing
 
