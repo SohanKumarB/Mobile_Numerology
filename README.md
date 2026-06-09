@@ -1,4 +1,4 @@
-# Mobile Numerology
+## Mobile Numerology
 
 A modern React-based web application that analyzes mobile numbers using numerology principles and provides personalized insights, predictions, and recommendations. The application offers an interactive user interface, instant calculations, and the ability to save previous analyses for future reference.
 
@@ -64,21 +64,51 @@ Mobile_Numerology/
 ├── eslint.config.js
 └── README.md
 ```
+## 🔗 Source Code & Repository
 
-## 🚀 Installation
+### GitHub Repository
 
-### Clone the Repository
+The complete source code for the Mobile Numerology project is available on GitHub:
+
+Repository: https://github.com/SohanKumarB/Mobile_Numerology
+
+### Main Source Files
+
+| File                                  | Description                                     |
+| ------------------------------------- | ----------------------------------------------- |
+| `src/App.jsx`                         | Main application component and routing logic    |
+| `src/main.jsx`                        | React application entry point                   |
+| `src/utils/numerology.js`             | Core numerology calculation algorithms          |
+| `src/components/Header.jsx`           | Navigation and header component                 |
+| `src/components/SavedPredictions.jsx` | Displays saved numerology predictions           |
+| `src/App.css`                         | Application-specific styling                    |
+| `src/index.css`                       | Global styles and layout configuration          |
+| `vite.config.js`                      | Vite build and development server configuration |
+| `package.json`                        | Project dependencies and scripts                |
+
+### Installation
 
 ```bash
 git clone https://github.com/SohanKumarB/Mobile_Numerology.git
 cd Mobile_Numerology
-```
-
-### Install Dependencies
-
-```bash
 npm install
+npm run dev
 ```
+
+### Development Tools
+
+* React.js
+* Vite
+* JavaScript (ES6+)
+* CSS3
+* HTML5
+* Git
+* GitHub
+* VS Code
+
+### Version Control
+
+The project uses Git for version control and GitHub for source code management and collaboration.
 
 ### Run Development Server
 
